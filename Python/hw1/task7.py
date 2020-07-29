@@ -1,0 +1,1 @@
+print('ababab'.replace('ab','cd',2))
